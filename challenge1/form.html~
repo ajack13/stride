@@ -1,8 +1,0 @@
-<form method="POST" action="http://localhost:8080/getAllTokens">
-	<input name="token" placeholder="please enter your access token" value="" />
-	<button type="submit">Get All Tokens</button>
-</form>
-
-<form style="margin-top:100px" method="GET" action="http://localhost:8080/getNewToken">
-	<button type="submit">Get A New Token</button>
-</form>
